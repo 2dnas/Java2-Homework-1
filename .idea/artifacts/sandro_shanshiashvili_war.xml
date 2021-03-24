@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sandro-shanshiashvili:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sandro-shanshiashvili</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sandro-shanshiashvili-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sandro-shanshiashvili:war exploded" />
+    </root>
+  </artifact>
+</component>
